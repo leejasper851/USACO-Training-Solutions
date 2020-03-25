@@ -1,2 +1,2 @@
 # USACO-Training-Solutions
-My solutions for USACO Training problems.
+My solutions to USACO Training problems.
